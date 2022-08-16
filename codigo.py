@@ -6,3 +6,6 @@ b = 2
 
 # nova linha para branch staging
 c = 3
+
+# nova linha para primeira branch 
+d = 4
